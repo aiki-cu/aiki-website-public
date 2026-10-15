@@ -2,7 +2,7 @@
 
 > A research center in CU Boulder’s Department of Computer Science. AIKI studies how institutions create and share knowledge, and how AI changes their work.
 
-Director: Daniel Acuna. Established September 9, 2026.
+Director: Daniel Acuna. Funded September 9, 2026.
 
 ## Research and people
 
@@ -20,4 +20,4 @@ Director: Daniel Acuna. Established September 9, 2026.
 - [News](https://aiki-cu.github.io/news/)
 - [About and contact](https://aiki-cu.github.io/about/)
 - [News by email](https://aiki-cu.github.io/join/#newsletter): Subscribe to AIKI news through a Google Groups invitation.
-- [Support](https://aiki-cu.github.io/support/): Discuss philanthropic support through CU Boulder for student participation, new research questions, and shared tools and data. Contact information is on this page.
+- [Support](https://aiki-cu.github.io/support/): Give online to the AIKI Support Fund through CU Boulder, or discuss philanthropic support for student participation, new research questions, and shared tools and data. Contact information is on this page.

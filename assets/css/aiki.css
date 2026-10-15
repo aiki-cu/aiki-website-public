@@ -257,7 +257,12 @@ address { font-style: normal; }
 .home-support h2 { font-size: clamp(26px, 3vw, 36px); margin-bottom: 16px; }
 .home-support p { max-width: 60ch; margin-bottom: 0; }
 .home-support > a { flex-shrink: 0; }
-.support-heading-link { margin-top: 22px; font-size: 18px; }
+.support-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 18px 32px; margin-top: 28px; }
+.support-heading-link { font-size: 18px; }
+.support-give { margin-block: 40px; padding: 30px; background: var(--mint-surface); }
+.support-give h2 { margin-top: 0; }
+.support-give .button { margin-top: 6px; }
+.prose .support-give-note { margin-block: 22px 0; font-size: 16px; color: var(--muted); }
 .support-purposes { margin: 0 0 24px; }
 .support-purposes dt { font-weight: 650; margin-top: 25px; }
 .support-purposes dd { margin: 8px 0 0; }
@@ -418,6 +423,7 @@ address { font-style: normal; }
 @media (max-width: 600px) {
   body { font-size: 17px; }
   .wrap, .header-inner, .brand-bar-inner, .primary-nav { width: calc(100% - 40px); }
+  .support-give { padding: 22px; }
   .brand { width: 220px; }
   .header-inner { gap: 0 12px; }
   .site-name { padding-block: 18px 16px; }
@@ -518,7 +524,7 @@ address { font-style: normal; }
   h1, h2, h3 { break-after: avoid; }
   p, li { orphans: 3; widows: 3; }
   .hero-copy h1 span, .hero-intro, .home-affiliation, .methods-layout > div > p { color: black; }
-  .theme-detail, .contact-panel, .topic-sidebar, .empty-state { background: #f1f1f1; color: black; }
+  .theme-detail, .contact-panel, .support-give, .topic-sidebar, .empty-state { background: #f1f1f1; color: black; }
   .publication-year[hidden], .publication[hidden] { display: block !important; }
   .publication-year { display: block; }
   .publication-year > h2 { margin-bottom: 20px; }

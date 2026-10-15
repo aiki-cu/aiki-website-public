@@ -44,6 +44,9 @@
       case 'support_contact_click':
         send('support_contact_click', area);
         return;
+      case 'support_give_click':
+        send('support_give_click', area);
+        return;
       case 'research_person_click':
         send('research_person_click', area, { person_id: link.dataset.personId });
         return;
