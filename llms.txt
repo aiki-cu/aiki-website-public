@@ -6,18 +6,18 @@ Director: Daniel Acuna. Funded September 9, 2026.
 
 ## Research and people
 
-- [Research](https://aiki-cu.github.io/research/): How institutions shape knowledge and how AI changes institutions.
-- [Knowledge creation](https://aiki-cu.github.io/research/knowledge-production/): We study how institutions shape research, careers, and the spread of ideas. Includes research questions and associated faculty.
-- [Trust and reliability](https://aiki-cu.github.io/research/knowledge-integrity/): We study how people judge information and where mistakes go unnoticed. Includes research questions and associated faculty.
-- [AI and language](https://aiki-cu.github.io/research/ai-mediated-text/): We study AI’s role in writing, editing, and summarizing information. Includes research questions and associated faculty.
-- [Power and influence](https://aiki-cu.github.io/research/power-and-narrative/): We study how language, social connections, and AI shape influence. Includes research questions and associated faculty.
+- [Research](https://aiki.colorado.edu/research/): How institutions shape knowledge and how AI changes institutions.
+- [Knowledge creation](https://aiki.colorado.edu/research/knowledge-production/): We study how institutions shape research, careers, and the spread of ideas. Includes research questions and associated faculty.
+- [Trust and reliability](https://aiki.colorado.edu/research/knowledge-integrity/): We study how people judge information and where mistakes go unnoticed. Includes research questions and associated faculty.
+- [AI and language](https://aiki.colorado.edu/research/ai-mediated-text/): We study AI’s role in writing, editing, and summarizing information. Includes research questions and associated faculty.
+- [Power and influence](https://aiki.colorado.edu/research/power-and-narrative/): We study how language, social connections, and AI shape influence. Includes research questions and associated faculty.
 
-- [People](https://aiki-cu.github.io/people/): Director, core members, and affiliates.
+- [People](https://aiki.colorado.edu/people/): Director, core members, and affiliates.
 
 ## Participation and information
 
-- [Join](https://aiki-cu.github.io/join/): Ways to work with us.
-- [News](https://aiki-cu.github.io/news/)
-- [About and contact](https://aiki-cu.github.io/about/)
-- [News by email](https://aiki-cu.github.io/join/#newsletter): Subscribe to AIKI news through a Google Groups invitation.
-- [Support](https://aiki-cu.github.io/support/): Give online to the AIKI Support Fund through CU Boulder, or discuss philanthropic support for student participation, new research questions, and shared tools and data. Contact information is on this page.
+- [Join](https://aiki.colorado.edu/join/): Ways to work with us.
+- [News](https://aiki.colorado.edu/news/)
+- [About and contact](https://aiki.colorado.edu/about/)
+- [News by email](https://aiki.colorado.edu/join/#newsletter): Subscribe to AIKI news through a Google Groups invitation.
+- [Support](https://aiki.colorado.edu/support/): Give online to the AIKI Support Fund through CU Boulder, or discuss philanthropic support for student participation, new research questions, and shared tools and data. Contact information is on this page.
